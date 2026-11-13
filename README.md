@@ -1,6 +1,6 @@
 # Snake Game v2
 
-A dependency-free Snake game in plain HTML, CSS and JavaScript. Open `index.html` and play. English and French.
+A dependency-free Snake game in plain HTML, CSS and JavaScript. Open `index.html` and play, English and French.
 
 Three modes, special foods, skins, trophies, two themes, full screen and a settings menu. The first version of the game lives in the [snake-game](https://github.com/Ueudje/snake-game) repository.
 
